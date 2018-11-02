@@ -47,6 +47,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ```
 npm i sass-loader node-sass — save
 ```
+## `Calendar`
+```
+npm install fullcalendar-reactwrapper --save
+```
 
 ## `Live Reload`
 ```
